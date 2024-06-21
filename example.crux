@@ -1,0 +1,111 @@
+### CRUX PROGRAMMING LANGUAGE SPESIFICATION ###
+
+#
+# comment blocks
+#
+
+
+struct_class = {
+
+	class_or_substruct: {
+	},
+
+}
+
+F afunction(){}
+f = a function(){}
+
+##
+## Arrays handled as string objects anyway on the second level same with objects
+## if needed use nested structs within arrays whole structs and whole struct pointers can be within the array depth
+##
+
+array_[0] = "main_array_depth::fetched_array_tree_pointer->new_array_depth*:::"
+
+array_[0] = {
+
+}
+
+##
+## Multidimensional arrays
+## if struct contains arrays only do this, if struct contains mixed data sort the struct
+## enables structs, arrays and objects to be intertwined into functional object packs
+##
+
+array_[1] = {
+	
+	sub_array = []
+}
+
+##
+##
+## Handling of Data 
+## extract said string array or pointer array, carry with principles
+## becoming memory based array tree pointers if wanted if not called the address will not exist
+## Declaration by array call
+##
+array_[0]->[0]->[0]
+
+##
+## And thus the array is its own parted set of data instead of tree data
+## which also allows for individual pointer set arrays and objects with even structs to be intermingeled manually
+## without said pointer adddresses to the array object the addresses to the array depth doesn't exist
+## to understand this? pointer trees are globals when the program is run, objects without addresses usually defaults when
+## program is done with said code block pointer sets don't until the program loop ends
+## pointers are means to ends
+##
+array_[0][0][0]
+
+##
+## if else in the byte interpeters it's usually coded like this this: or this ? if not then this
+##
+
+function_name: true ? ret 0
+
+## code blocked
+
+function_name: true {
+	variable = "string"
+} ?{
+	## some algorithm if not true
+	ret 0; 
+}
+
+## C and C++ in one language without the damn mess
+## Headers, define them in the same file and byte interpeter the header declarations if you must have it
+## however you don't
+
+hexdump -C example.crux | head -10
+
+##
+## inside strcuts or classes do this
+##
+
+struct_class = {
+	constructor: {
+		## this defines the struct into a struct function 
+		## now just count the number of structs that has run in them
+		## which then sorts itself into functional programmable tree that works in memory or not
+		## yes this will create pointer sets
+		run;
+
+		## no memory runs
+		## binaries use memory addresses as runtime pointers, hower you can still run functions without it
+		## why pointers declaration happens in C
+		run 0;
+
+		## principles, if the program is running with the language then it's runtime
+		## language so small it can embed while it's running which is already coded into the C, C++ binaries anyways
+		## the binaries needs the functional struct and logic to even function
+	}
+}
+
+##
+## To explain you don't need to load the entire binary into memory part it up would match the functional programmable tree
+## Also pointer tree
+##
+## isn't the C and c++ compilers even the opensourced ones adhering to propetariy way of writing compilers, their own binary file standards
+## "yes our byte structure should be like this, it's more pretty" and then they cry about people being shallow
+## 
+## Mostly Operating System devs who write that stuff either way so, and cryptographers
+##
