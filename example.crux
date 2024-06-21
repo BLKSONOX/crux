@@ -62,7 +62,7 @@ array_[0][0][0]
 
 function_name: true ? ret 0
 
-## code blocked
+## if else code square brackets
 
 function_name: true {
 	variable = "string"
