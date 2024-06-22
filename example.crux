@@ -109,3 +109,5 @@ struct_class = {
 ## 
 ## Mostly Operating System devs who write that stuff either way so, and cryptographers
 ##
+## interpeter, it just identifies areas and logic, go old school and build it in ASCII hex binaries or just write the interpeter in C
+## and fire out a binari of said interpeter which can compile code into new binaries or don't
