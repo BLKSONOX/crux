@@ -111,3 +111,4 @@ struct_class = {
 ##
 ## interpeter, it just identifies areas and logic, go old school and build it in ASCII hex binaries or just write the interpeter in C
 ## and fire out a binari of said interpeter which can compile code into new binaries or don't
+## a binari that reads other binaries is called runtimes which also can create new and other binaries
