@@ -118,3 +118,4 @@ struct_class = {
 
 ## RFC manuals useful for protocol standards, filesystem standards, and some device standards
 ## basically computer science is in reality more simple then the overcomplicated mess of today's litterature written
+## library? all of it is just 0x ranges, minifying that code is simpler then people think
