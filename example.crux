@@ -117,3 +117,4 @@ struct_class = {
 ## some drivers requires DRM files which there is a standard for
 
 ## RFC manuals useful for protocol standards, filesystem standards, and some device standards
+## basically computer science is in reality more simple then the overcomplicated mess of today's litterature written
